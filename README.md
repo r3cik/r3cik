@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**r3cik/r3cik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```plaintext
+ ________  ________  ________  ___     
+|\   __  \|\_____  \|\   ____\|\  \    
+\ \  \|\  \|____|\ /\ \  \___|\ \  \   
+ \ \   _  _\    \|\  \ \  \    \ \  \  
+  \ \  \\  \|  __\_\  \ \  \____\ \  \ 
+   \ \__\\ _\ |\_______\ \_______\ \__\
+    \|__|\|__|\|_______|\|_______|\|__|
+```
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=r3cik&style=for-the-badge&color=000000)
+![](https://img.shields.io/github/followers/r3cik?style=for-the-badge&color=000000)
+![](https://img.shields.io/github/stars/r3cik?style=for-the-badge&color=000000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi im a random guy that makes shitty py projects 4fun. Coding is just a hobby
