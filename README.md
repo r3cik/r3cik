@@ -17,4 +17,6 @@ Hi im a random guy that makes shitty py projects 4fun. Coding is just a hobby
 ![](https://img.shields.io/github/followers/r3cik?style=for-the-badge&color=000000)
 ![](https://img.shields.io/github/stars/r3cik?style=for-the-badge&color=000000)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3cik&show_icons=true&theme=transparent&icon_color=ffffff&title_color=ffffff&text_color=ffffff&hide_border=True)
+![](https://github-readme-stats.vercel.app/api?username=r3cik&show_icons=true&theme=transparent&icon_color=ffffff&title_color=ffffff&text_color=ffffff&hide_border=True)
+
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=notr3ci)](https://github.com/anuraghazra/github-readme-stats)
