@@ -19,4 +19,4 @@ Hi im a random guy that makes shitty py projects 4fun. Coding is just a hobby
 
 ![](https://github-readme-stats.vercel.app/api?username=r3cik&show_icons=true&theme=transparent&icon_color=ffffff&title_color=ffffff&text_color=ffffff&hide_border=True)
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=nor3ci)]
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=notr3ci)]
